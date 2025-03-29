@@ -1,17 +1,17 @@
-# NB Notes
+# Privacy Policy for NB Notes
 
-A Chrome extension for creating and managing notes that sync with Google Drive.
+## Information Collection and Use
+The NB Notes extension requests access to create and manage Google Drive files in a specific folder created by the extension. We do not access, collect, or store any other data from your Google account.
 
-## Features
-- Create and edit rich text notes
-- Automatic syncing with Google Drive
-- Formatting options (bold, italic, lists, etc.)
-- Auto-save functionality
-- Search capabilities
-- Offline support
+## Data Storage
+- Notes are stored in your own Google Drive account
+- Basic settings are stored locally in your browser using Chrome's storage API
+- No data is sent to our servers
 
-## Installation
-This extension is available in the Chrome Web Store (coming soon).
+## Google API Services
+This extension uses Google Drive API to store and sync your notes. Access is limited to files created by the extension.
 
 ## Contact
-If you have questions or feedback, please open an issue in this repository.
+If you have any questions about this privacy policy, please open an issue on our GitHub repository.
+
+Last updated: [Current Date]
